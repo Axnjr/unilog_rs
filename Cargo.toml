@@ -1,0 +1,15 @@
+[package]
+name = "unilog"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.39"
+
+[lib]
+name = "unilog"
+path = "src/lib.rs"
+
+[[bin]]
+name = "unilog_demo"
+path = "src/main.rs"
