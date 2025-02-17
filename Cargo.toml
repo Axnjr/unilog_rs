@@ -10,7 +10,7 @@ homepage = "https://github.com/Axnjr/unilog_rs"
 documentation = "https://docs.rs/unilog"
 readme = "README.md"
 keywords = ["logging", "async", "logger", "color", "fmt"]
-categories = ["development-tools::debugging", "logging"]
+categories = ["development-tools::debugging", "command-line-utilities"]
 
 [dependencies]
 chrono = "0.4.39"
