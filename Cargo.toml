@@ -9,7 +9,7 @@ repository = "https://github.com/Axnjr/unilog_rs"
 homepage = "https://github.com/Axnjr/unilog_rs"
 documentation = "https://docs.rs/unilog"
 readme = "README.md"
-keywords = ["logging", "async", "logger", "logs", "colored", "color", "cli", "fmt", "display"]
+keywords = ["logging", "async", "logger", "color", "fmt"]
 categories = ["development-tools::debugging", "logging"]
 
 [dependencies]
