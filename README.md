@@ -23,3 +23,19 @@ fn main() {
     Trace! (instance, "TRIAL of tracing lets see what happens !!");
 }
 ```
+
+# Sample logs
+```py
+[Feb 08 16:38:33] | [NOTICE]   : TRIAL of notoices lets see what happens !! 
+[Feb 08 16:38:33] | [WARNN ]   : TRIAL of warnings lets see whta happens !! 
+[Feb 08 16:38:33] | [ERROR ]   : TRIAL of error lets see what hap !! 
+[Feb 08 16:38:33] | [TRACE ]   : TRIAL of tracing lets see what hap !! 
+[Feb 08 16:44:05] | [FATAL ]   : Trial for Fatal error via macros !! 
+[Feb 08 16:46:04] | [FATAL ]   : Trial for Fatal error via macros !! 
+[Feb 08 16:46:04] | [NOTICE]   : TRIAL of notices lets see what happens !! 
+[Feb 08 16:46:04] | [WARNN ]   : TRIAL of warnings lets see what happens !! 
+[Feb 08 16:46:04] | [INFO  ]   : TRIAL of information lets see what happens !! 
+[Feb 08 16:46:04] | [DEBUG ]   : TRIAL of debugging lets see what happens !! 
+[Feb 08 16:46:04] | [ERROR ]   : TRIAL of error lets see what happens !! 
+[Feb 08 16:46:04] | [TRACE ]   : TRIAL of tracing lets see what happens !! 
+```
