@@ -1,5 +1,8 @@
 # `🦀unilog.rs`
 
+[![Crates.io](https://img.shields.io/crates/v/unilog)](https://crates.io/crates/unilog)
+[![Documentation](https://docs.rs/unilog/badge.svg)](https://docs.rs/unilog)
+
 ## Example
 ```rust
 use unilog::{Level, UniLog, Fatal, Error, Warn, Notice, Info, Debug, Trace};
