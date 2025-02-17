@@ -1,7 +1,16 @@
 [package]
-name = "unilog"
-version = "0.1.0"
+name = "unilog"  # Your crate name (must be unique)
+version = "0.1.3"  # Start with a version
 edition = "2021"
+authors = ["Yakshit Chhipa (Axnjr) <yakshitchhipa@gmail.com>"]
+license = "MIT"  # Specify a license
+description = "A lightweight Rust logging library supporting async/sync logging and colored logs."
+repository = "https://github.com/Axnjr/unilog_rs"
+homepage = "https://github.com/Axnjr/unilog_rs"
+documentation = "https://docs.rs/unilog"
+readme = "README.md"
+keywords = ["logging", "async", "logger", "logs", "colored", "color", "cli", "fmt", "display"]
+categories = ["development-tools::debugging", "logging"]
 
 [dependencies]
 chrono = "0.4.39"
